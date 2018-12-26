@@ -1,6 +1,6 @@
 /*----------------------------------------------------------------------------
  *      Name:   SpeedControl.C
- *      Author: Farid Mabrouk
+ *      Author: F Mabrouk
  *      Purpose: AMT7 example program
  *----------------------------------------------------------------------------
  *      This code is part of the RealView Run-Time Library.
